@@ -18,8 +18,8 @@
 
   - 文件放置：/usr/src
   - 获取源码：wget https://nodejs.org/dist/v0.12.7/node-v0.12.7.tar.gz
-  - 解压：tar -zvxf node-v0.12.7.tar.gz
-  - 编译和安装：make && make install
+  - 解压：tar -zvxf node-v0.12.7.tar.gz && cd node-v0.12.7
+  - 配置、编译和安装：./configure --prefix=/usr/local/nodejs/ && make && make install
   - 验证：node -v
   - 代码测试：
   
