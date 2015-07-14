@@ -1,5 +1,12 @@
 # Changelog for Todo Lists by Meteor
 
+### 2015-07-14
+----
+
+#### 1、NodeJS服务管理
+
+  - npm install pm2 -g
+
 
 ### 2015-07-13
 ----
