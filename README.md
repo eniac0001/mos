@@ -12,6 +12,10 @@
   - curl https://install.meteor.com/ | sh
   - meteor create --example todos
   
+#### 3、安装和配置demeteorizer
+  
+  - npm install demeteorizer -g
+  - 转化过程有待验证
 
 
 ### 2015-07-13
