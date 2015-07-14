@@ -7,6 +7,12 @@
 
   - npm install pm2 -g
 
+#### 2、Meteor
+
+  - curl https://install.meteor.com/ | sh
+  - meteor create --example todos
+  
+
 
 ### 2015-07-13
 ----
