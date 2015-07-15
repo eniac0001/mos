@@ -6,6 +6,11 @@
 #### 1、安装配置nginx
 
   - wget http://nginx.org/download/nginx-1.9.3.tar.gz (cd /usr/src/)
+  - tar -zxvf nginx-1.9.3.tar.gz
+  - mv nginx-1.9.3 /usr/loca/nginx
+  - cd /usr/local/nginx
+  - ./configure --prefix=/usr/loca/nginx/
+  - make && make install
 
 
 ### 2015-07-14
